@@ -1,0 +1,34 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+input {
+  width: 200px;
+  height: 25px;
+}
+
+button {
+  height: 31px;
+  background: cyan;
+  border: none;
+}
+
+button:hover {
+  cursor: pointer;
+  background: rgb(0, 197, 197);
+}
+
+.result {
+  height: 400px;
+  overflow: auto;
+}
+
+.advice {
+  background: #e6e6e6;
+  padding: 10px;
+  margin: 15px;
+  border-radius: 4px;
+}
