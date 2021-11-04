@@ -30,3 +30,6 @@ git clone https://github.com/pandeyankit2319/AdviceMe.git
 3) To verify whether the project has been cloned execute pwd & later ls and find
 the folder named as AdviceMe. Open that directory by typing cd AdviceMe
 4) Open the html project - open index.html. The page should launch.
+
+Note -  Make sure that opening the html files should be defaulted 
+        to some browser and not notepad++ or any other editor.
